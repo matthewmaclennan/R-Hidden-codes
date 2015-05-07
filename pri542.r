@@ -1,5 +1,5 @@
-R code and output:
-
+#R code and output:
+#Simplex lattice designs
 ## Input data.
 m = matrix(
 c(0.0, 0.0, 1.0, 16.8,
